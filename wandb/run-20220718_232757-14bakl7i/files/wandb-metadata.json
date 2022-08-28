@@ -1,0 +1,16 @@
+{
+    "os": "macOS-12.2.1-arm64-arm-64bit",
+    "python": "3.10.5",
+    "heartbeatAt": "2022-07-19T03:27:57.870225",
+    "startedAt": "2022-07-19T03:27:57.095452",
+    "docker": null,
+    "cpu_count": 8,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/jakekasper/Desktop/Research/protein_model/dataloader.py",
+    "codePath": "dataloader.py",
+    "host": "Jakes-MacBook-Pro-2.local",
+    "username": "jakekasper",
+    "executable": "/Library/Frameworks/Python.framework/Versions/3.10/bin/python3"
+}
